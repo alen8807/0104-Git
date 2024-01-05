@@ -1,2 +1,2 @@
 def print2():
-    print('빅파이')
+    print('빅사이즈')
